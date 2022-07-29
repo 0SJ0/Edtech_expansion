@@ -1,2 +1,2 @@
 # Edtech-expansion
-Etude d'un projet d'expansion d'une edtech à l'international.
+L’objectif est d’évaluer un projet d’expansion à l’international d’une edtech à l’internationnal. Pour guider cette décision,  nous réalisons  une analyse exploratoire  des données sur l’éducation de la banque mondiale qui contient  4000 indicateurs internationaux décrivant l’accès à l’éducation, l’obtention de diplômes , des informations relatives aux professeurs ou aux dépenses liées à l’éducation.
